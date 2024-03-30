@@ -6,7 +6,7 @@ Make sure `~/.config/alacritty` is either empty or doesn't exist before doing th
 git clone https://github.com/wishfulDeity/lexis-alacritty-config ~/.config/alacritty
 ```
 ### Windows
-You're on your own, but this is probably a good start:
+Make sure `C:\%appdata%\alacritty` is either empty or doesn't exist before doing this.
 ```bash
-git clone https://github.com/wishfulDeity/lexis-alacritty-config (full/path/to/alacritty/config)
+git clone https://github.com/wishfulDeity/lexis-alacritty-config C:\%appdata%\alacritty
 ```
