@@ -15,7 +15,7 @@
 # This is simple. If not clear, do several trials and errors.
 
 # Below is my initial set-up. The TOML homepage (https://toml.io/en/v1.0.0) was very helpful in figuring this out. 
-# I put the file alacritty.toml in $HOME/.config/alacritty. However it can be kept anywhere among the places mentioned in
+# I put the file  alacritty.toml in $HOME/.config/alacritty. However it can be kept anywhere among the places mentioned in
 # https://github.com/alacritty/alacritty/tree/master#configuration
 
 import = ["~/.config/alacritty/themes/themes/catppuccin-frappe.toml"]
@@ -30,10 +30,10 @@ decorations = "Full"
 decorations_theme_variant = "Light" # "Dark"
 
 [font]
-normal.family = "Victor Mono"
-bold.family = "Victor Mono"
-italic.family = "Victor Mono"
-bold_italic.family = "Victor Mono"
+normal.family = "Victor Mono NF"
+bold.family = "Victor Mono NF"
+italic.family = "Victor Mono NF"
+bold_italic.family = "Victor Mono NF"
 size = 10
 
 [shell]
