@@ -5,7 +5,8 @@ Make sure `~/.config/alacritty` is either empty or doesn't exist before doing th
 
 ```bash
 git clone https://github.com/wishfulDeity/lexis-alacritty-config ~/.config/alacritty
-git clone https://github.com/catppuccin/alacritty.git ~/.config/alacritty/themes/themes
+mkdir -p ~/.config/alacritty/themes
+git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
 ```
 
 You will have to install the Victor Mono NerdFont to make it not suck (thats what _i_ use so im forcing _you_ to use it now).
