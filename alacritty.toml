@@ -30,11 +30,11 @@ decorations = "Full"
 decorations_theme_variant = "Dark" # "Dark"
 
 [font]
-normal.family = "Victor Mono NF"
-bold.family = "Victor Mono NF"
-italic.family = "Victor Mono NF"
-bold_italic.family = "Victor Mono NF"
-size = 10
+normal.family = "0xProto Nerd Font Mono"
+bold.family = "0xProto Nerd Font Mono"
+italic.family = "0xProto Nerd Font Mono"
+bold_italic.family = "0xProto Nerd Font Mono"
+size = 13
 offset.x = 0  # Letter spacing (degault 0)
 offset.y = -1 # Line spacing (default 0)
 
