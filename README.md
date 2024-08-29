@@ -11,4 +11,4 @@ git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/theme
 
 You will have to install the 0xProto Nerd Font Mono to make it not suck (thats what _i_ use so im forcing _you_ to use it now >:3).
 
-It's at `https://www.nerdfonts.com/font-downloads`.
+It's at [https://www.nerdfonts.com/font-downloads].
