@@ -9,6 +9,6 @@ mkdir -p ~/.config/alacritty/themes
 git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
 ```
 
-You will have to install the Victor Mono NerdFont to make it not suck (thats what _i_ use so im forcing _you_ to use it now).
+You will have to install the 0xProto Nerd Font Mono to make it not suck (thats what _i_ use so im forcing _you_ to use it now >:3).
 
-It's at `https://www.nerdfonts.com/font-downloads`. Just <C-f> for 'Victor' or scroll wayyy down to the bottom (its like the 2nd to last one)
+It's at `https://www.nerdfonts.com/font-downloads`.
