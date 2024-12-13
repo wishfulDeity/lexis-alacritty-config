@@ -1,4 +1,4 @@
-# Lexi's Alacritty Config
+# meow
 ## Installation
 ### Linux
 Make sure `~/.config/alacritty` is either empty or doesn't exist before doing this.
